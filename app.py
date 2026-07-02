@@ -176,4 +176,4 @@ if uploaded_file is not None:
         st.error(f"Failed to process dataset: {str(e)}")
         st.info("Ensure you are uploading the raw list of JSON components directly matching the schema structure.")
 else:
-    st.info("Waiting for file upload... Use 'sample_candidates.json' from your participant bundle to test the pipeline interface quickly.")
+    st.info("Waiting for file upload...")
