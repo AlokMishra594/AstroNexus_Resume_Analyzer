@@ -28,7 +28,7 @@
 Job Description
         │
         ▼
-Load 100,000 Candidates
+Load Candidates data file(json, jsonl)
         │
         ▼
 Defensive Filtering
